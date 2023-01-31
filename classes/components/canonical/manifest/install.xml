@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+	<route>
+		<transaction name="create_table_on_install">
+			<action name="\UmiCms\Manifest\Canonical\CreateTable" />
+		</transaction>
+	</route>
+</manifest>
